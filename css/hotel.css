@@ -1,5 +1,5 @@
 .bg-nav-color{
-    background-color: #d3b7b5;
+    background-color: #d2b48c;
 }
 .txt-nav-color{
     color: rgba(255,255,255, 0.4);
@@ -24,7 +24,8 @@ footer .card-body a{
     text-decoration: none;
 }
 footer .card-header {
-    background-color: rgb(17, 25, 31);
+    background-color: rgba(17, 25, 31, 0.3);
+    border-radius: 0 !important;
    
 }
 footer .card-header a{
