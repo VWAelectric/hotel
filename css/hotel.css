@@ -37,3 +37,9 @@ footer .card-header a{
 footer .card-header a:hover{
     color: gray;
 }
+main .row{
+    padding: 0 100px !important;
+}
+main h2{
+    margin: 30px 100px 60px 100px;
+}
