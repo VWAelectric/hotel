@@ -43,3 +43,21 @@ main .row{
 main h2{
     margin: 30px 100px 60px 100px;
 }
+.card-body{
+    margin-left: 250px;
+}
+.border0{
+    border-width: 0px;
+}
+.card-title{
+    margin-top: 200px;
+    margin-bottom: 25px;
+}
+.card-text{
+    margin: 20 0 20 0;
+
+    text-align: justify;
+}
+.margem{
+    margin-bottom: 130px !important;
+}
