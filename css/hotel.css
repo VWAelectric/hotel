@@ -72,9 +72,3 @@ footer .localizacao{
     text-align: center;
     margin-top: 50px;
 }
-.fixacao{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-}
