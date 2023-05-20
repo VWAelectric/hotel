@@ -17,11 +17,13 @@ footer .card-body{
     height: 250px;
     text-align: center;
     color: rgba(255,255,255, 0.8) !important ;
+    margin-left: 0px !important;
     
 }
 footer .card-body a{
     color: rgba(255,255,255, 0.8) !important ;
     text-decoration: none;
+    
 }
 footer .card-header {
     background-color: rgba(17, 25, 31, 0.3);
